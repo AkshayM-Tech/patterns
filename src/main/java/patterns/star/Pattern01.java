@@ -1,4 +1,4 @@
-package patterns;
+package patterns.star;
 
 /* Write a java program to print below pattern
        *
