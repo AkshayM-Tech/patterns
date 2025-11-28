@@ -23,6 +23,7 @@
 hs_err_pid*
 replay_pid*
 
-# custom
+# custom files
 .idea/
+src/main/java/patterns/number/xPattern.java
 src/main/java/patterns/number/zPattern.java
